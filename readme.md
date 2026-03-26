@@ -20,9 +20,9 @@ Los archivos disponibles en este repositorio demuestran la interfaz, la lógica 
 * `app.py`: Código fuente de la aplicación web (Dashboard interactivo construido con Streamlit). Contiene la lógica del motor de reglas y la inyección de prompts a Hugging Face.
 * `predicciones_dashboard.csv` & `mapa_eventos_ticketmaster.csv`: Datasets resultantes del pipeline ETL listos para ser consumidos por el dashboard.
 * `requirements.txt`: Dependencias del entorno de producción.
-* `Informe - SMART BCN.docx`: Documento técnico y de negocio detallando la metodología, el descubrimiento del "Efecto Refugio" y el R² Score (81.3%).
-* `PRESENTACION Smart-BCN_Predictive_AI.pptx`: Material de apoyo visual para la defensa del proyecto.
-* `Vídeo_Explicación_Smart-BCN__De_los_datos_al_futuro.mp4`: Spot promocional B2B resumiendo el problema, la tecnología y la solución de la plataforma.
+* `Informe - SMART BCN.pdf`: Documento técnico y de negocio detallando la metodología, el descubrimiento del "Efecto Refugio" y el R² Score (81.3%).
+* `Keynote-Smart-BCN_Predictive_AI.pdf`: Material de apoyo visual para la defensa del proyecto.
+* `Vídeo_Smart-BCN__De_los_datos_al_futuro.mov`: Spot promocional B2B resumiendo el problema, la tecnología y la solución de la plataforma.
 
 ## 📊 Arquitectura del Sistema (Visión Global)
 
