@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+geopy
+joblib
+numpy
+requests
+fpdf
+huggingface_hub
+scikit-learn
